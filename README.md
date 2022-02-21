@@ -16,6 +16,4 @@
   <img alt="" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>
 
 <h3>Contact me:</h3>
-<!--<a href="mailto:fxvnder@protonmail.com"> <img alt="Protonmail" src="https://img.shields.io/badge/fxvnder@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> </a> <a href="mailto:fxvnder@nadaradical.com"> <img alt="Mail" src="https://img.shields.io/badge/fxvnder@nadaradical.com-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" /> </a> <a href="https://telegram.me/fxvnder"> 
-  <img alt="Telegram" src="https://img.shields.io/badge/@fxvnder-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> 
-  <img alt="Discord" src="https://img.shields.io/badge/FXVNDER%232156-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>-->
+<a href="mailto:pserac01@gmail.com"> <img alt="Mail" src="https://img.shields.io/badge/pserac01@gmail.com-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" /> </a>
