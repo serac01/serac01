@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on c++ project
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning AI & NN
 - 😄 Pronouns: He/Him
 
 <h3>Always learning. Playing around with:<h3/>
