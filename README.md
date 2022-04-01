@@ -1,7 +1,7 @@
 <div align="center">Hi there 👋</div>
 
 
-- 🔭 I’m currently working on c++ project
+- 🔭 I’m currently working on java project
 - 🌱 I’m currently learning AI & NN
 - 😄 Pronouns: He/Him
 
