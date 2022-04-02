@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on java project
-- 🌱 I’m currently learning AI & NN
+- 🌱 I’m currently learning AI & NNN
 - 😄 Pronouns: He/Him
 
 <h3>Always learning. Playing around with:<h3/>
