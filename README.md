@@ -15,5 +15,10 @@
   <img alt="" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>
 
+  ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api/?username=serac01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serac01)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 <h3>Contact me:</h3>
 <a href="mailto:pserac01@gmail.com"> <img alt="Mail" src="https://img.shields.io/badge/pserac01@gmail.com-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" /> </a>
