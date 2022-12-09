@@ -1,24 +1,61 @@
-<div align="center">Hi there 👋</div>
+<h2><b> Hi, I'm Sérgio Costa! </b><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Math_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" width="50"></h2>
+
+<img align='right' src="https://pankajvyas.in/static/media/front.48645a7b.gif" width="230">
+
+<em><b>Studying Embedded Systems at TUAS <br>(Turku University of Applied Sciences)</b></em> 🇫🇮
 
 
-- 🔭 I’m currently working on java project
-- 🌱 I’m currently learning AI & NNN
-- 😄 Pronouns: He/Him
+### <b>A little more about me...  
 
-<h3>Always learning. Playing around with:<h3/>
-<img alt="" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/JS%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>
+```javascript
+const serac01 = {
+    pronouns: "he" | "him",
+    age: 21,
+    bachelor: "in Computer Science"
+    code: [Javascript, HTML, CSS, Python, Java, C, C++],
+    tools: [React, Wordpress, Cisco],
+    skills: ["Web Development", "Software Development", "Android Studio"],
+    moreInfo: {
+        now: "Doing Erasmus in Finland",
+        from: "Braga, Portugal",
+        living: "Turku, Finland"
+    },
+}
+```
 
-  ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api/?username=serac01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<br/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serac01)](https://github.com/anuraghazra/github-readme-stats)
+### <b>My statistics here...  </b>
 
-  
-<h3>Contact me:</h3>
-<a href="mailto:pserac01@gmail.com"> <img alt="Mail" src="https://img.shields.io/badge/pserac01@gmail.com-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" /> </a>
+<table>
+<tr>
+<td>
+<div>
+
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api/?username=serac01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+</div>
+</td>
+<td>
+<div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serac01)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### <b>Contact me...  </b>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/serac01/"><img src="images/linkedin.png" width="40"/></a>
+  &#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/serac.01/"><img src="images/instagram.png" width="40"/></a>
+  &#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.discordapp.com/users/585416804612964352"><img src="images/discord.png" width="40"/></a>
+  &#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:p.serac01@gmail.com"><img src="images/email.png" width="40"/></a>
+</p>
