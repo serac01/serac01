@@ -2,7 +2,8 @@
 
 <img align='right' src="https://pankajvyas.in/static/media/front.48645a7b.gif" width="230">
 
-<em><b>Studying Embedded Systems at TUAS <br>(Turku University of Applied Sciences)</b></em> 🇫🇮
+<em><b>Studying Embedded Systems at TUAS (Turku University of Applied Sciences)</b></em> 🇫🇮<br>
+<em><b>Working at EF - Tecnologias de Software</b></em>
 
 
 ### <b>A little more about me...  
@@ -12,13 +13,13 @@ const serac01 = {
     pronouns: "he" | "him",
     age: 21,
     bachelor: "in Computer Science"
-    code: [Javascript, HTML, CSS, Python, Java, C, C++],
-    tools: [React, Wordpress, Cisco],
+    code: [Javascript, HTML, CSS, Python, Java, C, C++, React, Angular],
+    tools: [Wordpress, Cisco],
     skills: ["Web Development", "Software Development", "Android Studio"],
     moreInfo: {
-        now: "Doing Erasmus in Finland",
+        now: "Final year of degree and working",
         from: "Braga, Portugal",
-        living: "Turku, Finland"
+        living: "Braga, Portugal"
     },
 }
 ```
